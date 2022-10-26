@@ -1,4 +1,4 @@
-package com.ciandt;
+package com.habermann;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
