@@ -1,4 +1,4 @@
-# Welcome to husky-java 👋
+# Welcome to husky-java 
 [![OpenJDK](https://img.shields.io/badge/openjdk-17-blue)](#)
 [![Maven](https://img.shields.io/badge/maven-3.8.3-blue)](#)
 [![Node](https://img.shields.io/badge/nodejs-17-blue)](#)
@@ -36,9 +36,9 @@ git commit -m "message not following conventional commit standrds"
 
 ### Other Checks
 
-It is possible to configure several other hooks.|
+It is possible to configure several other hooks.
 
-In this project there is only a git push hook that will run build and tests of java project.
+In this project there is only a git push hook besides the commit check that will run build and tests of java project.
 
 ```
 git push
