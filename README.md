@@ -3,6 +3,7 @@
 [![Maven](https://img.shields.io/badge/maven-3.8.3-blue)](#)
 [![Node](https://img.shields.io/badge/nodejs-17-blue)](#)
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](#)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
 > Proof of Concept of using Husky in a Java project with Maven
 
