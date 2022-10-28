@@ -1,6 +1,6 @@
 #!/usr/bin/env bash 
 . "$(dirname -- "$0")/_/husky.sh"
 
-if cat $1 | grep -q "# Please enter the commit message "; then
+if cat $1 | grep -q "^#[A-Za-z ]*"; then 
     exec < /dev/tty && git cz --hook || exit 1
 fi
