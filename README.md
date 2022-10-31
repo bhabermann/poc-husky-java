@@ -1,7 +1,7 @@
 # Welcome to husky-java 
-[![OpenJDK](https://img.shields.io/badge/openjdk-17-blue)](#)
-[![Maven](https://img.shields.io/badge/maven-3.8.3-blue)](#)
-[![Node](https://img.shields.io/badge/nodejs-17-blue)](#)
+[![OpenJDK](https://img.shields.io/badge/openjdk-17-blue)](https://openjdk.org/projects/jdk/17/)
+[![Maven](https://img.shields.io/badge/maven-3.8.3-blue)](https://maven.apache.org/docs/3.8.3/release-notes.html)
+[![Node](https://img.shields.io/badge/nodejs-18-blue)](https://nodejs.org/en/)
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](#)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
@@ -52,6 +52,9 @@ git push
 ```sh
 npm run test
 ```
+
+## How to Initialize a new project
+[Follow this how to](./docs/initialize.md)
 
 ## Author
 
