@@ -7,6 +7,9 @@
 
 > Proof of Concept of using Husky in a Java project with Maven
 
+## How to initialize a new project
+If you want to reproduce these features in your project, [follow this how to](./docs/initialize.md)
+
 ## Install
 
 ```sh
@@ -52,9 +55,6 @@ git push
 ```sh
 npm run test
 ```
-
-## How to Initialize a new project
-[Follow this how to](./docs/initialize.md)
 
 ## Author
 
