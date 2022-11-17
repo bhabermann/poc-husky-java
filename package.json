@@ -20,6 +20,7 @@
         "cz-conventional-changelog": "^3.3.0",
         "husky": "^8.0.1",
         "lint-staged": "^13.0.3",
+        "prettier": "2.7.1",
         "prettier-plugin-java": "^1.6.2"
     },
     "config": {
@@ -28,6 +29,9 @@
         }
     },
     "lint-staged": {
-        "*.java": "npx prettier --write"
+        "*.java": [
+            "npx prettier --write", 
+            "git add"
+        ]
     }
 }
