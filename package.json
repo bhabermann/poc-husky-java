@@ -30,8 +30,7 @@
     },
     "lint-staged": {
         "*.java": [
-            "npx prettier --write", 
-            "git add"
+            "npx prettier --write"
         ]
     }
 }
